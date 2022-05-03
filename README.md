@@ -16,7 +16,6 @@
   </h1>
 </div>
 
----
 
 ## 👨‍💻 About Me :
 ### Hi! I am a junior Data Scientist from  Ukraine <img src="https://media.giphy.com/media/Bdpx4N4DDp1eo7ZjQx/giphy.gif" width="30">
@@ -91,8 +90,6 @@
 
 <br>
 
----
-
 ## 🔥 My Stats :
 <table>
     <tr valign=top>
@@ -102,8 +99,8 @@
         <td style="border: none!important;">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EMINBARI&layout=compact&theme=tokyonight" height=200>
         </td>
-        <td style="border: none!important;">
-        <img style="border-radius: 4%" src=" https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" height=200/>
-        </td>
     </tr>
 </table>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EMINBARI&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EMINBARI&layout=compact&theme=tokyonight)
