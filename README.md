@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img style="border-radius: 4%" src="https://media.giphy.com/media/LR5ZBwZHv02lmpVoEU/giphy-downsized-large.gif" width="200"/>
+  <img style="border-radius: 4%" src="https://media.giphy.com/media/iHDijVr0gipZhOdMNx/giphy-downsized-large.gif" width="200"/>
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/emin-bariev-8a176321a/">
