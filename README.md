@@ -94,13 +94,10 @@
 <table>
     <tr valign=top>
         <td style="border: none!important;">
-            <img src="https://github-readme-stats.vercel.app/api?username=EMINBARI&show_icons=true&theme=tokyonight" height=200>
+            <a href="https://github.com/eminjosephson"> <img src="https://github-readme-stats.vercel.app/api?username=EMINBARI&show_icons=true&theme=tokyonight" height=200> </a>
         </td>
         <td style="border: none!important;">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EMINBARI&layout=compact&theme=tokyonight" height=200>
+            <a href="https://github.com/eminjosephson"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EMINBARI&layout=compact&theme=tokyonight" height=200> </a>
         </td>
     </tr>
 </table>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EMINBARI&show_icons=true&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EMINBARI&layout=compact&theme=tokyonight)
