@@ -85,7 +85,7 @@
 
 ### 🔖 Sertificates
 <a href="https://www.coursera.org/account/accomplishments/verify/9NTGPUKMJQXJ">
-    <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~9NTGPUKMJQXJ/CERTIFICATE_LANDING_PAGE~9NTGPUKMJQXJ.jpeg" height=300/>
+    <img src="https://psv4.vkuseraudio.net/s/v1/d/RfCuW5UZte8Tgup166rvUtQOFuB8u6GWA4OJb5CD2M8zF1klO2N_6MDLGB55Nm7o5elScXlcDf5nGv8Yo9tgeSOgTf6mHqP64ZL8JScqdJF8wFVbwFzD2w/couseracoatofarms.png" height=300/>
 </a>
 
 <br>
