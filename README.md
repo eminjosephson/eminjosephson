@@ -12,18 +12,15 @@
   <img src="https://komarev.com/ghpvc/?username=eminjosephson&style=flat&color=brightgreen" alt=""/>
   <h1>
     <p>Junior data scientist</p>
-    <p>Emin Bari</p>
   </h1>
 </div>
 
 
 ## 👨‍💻 About Me :
-### Hi! I am a junior Data Scientist from  Ukraine <img src="https://media.giphy.com/media/Bdpx4N4DDp1eo7ZjQx/giphy.gif" width="30">
+### Hi, I am Emin Bari, a junior Data Scientist from  Ukraine <img src="https://media.giphy.com/media/Bdpx4N4DDp1eo7ZjQx/giphy.gif" width="30">
 
 - 🔭 I’m doing research on Spiking Neural Networks
-
 - 🌱 Exploring image segmentation problems using SNN
-
 - 📱 Flutter mobile developer
 
 <br>
@@ -42,7 +39,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>
         </td>
         <td>
-            <img src="https://cdn.worldvectorlogo.com/logos/numpy.svg" title="Numpy" alt="Numpy" height="40" width="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" height="40" width="40"/>
         </td>
         <td>
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" title="Scikit_learn" alt="Scikit_learn" height="40"/>
@@ -62,7 +59,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>
         </td>
         <td> 
-            <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/flutter_bloc_logo_full.png" title="Bloc" alt="Bloc" height="40"/>
+            <img src="https://plugins.jetbrains.com/files/18073/154423/icon/pluginIcon.png" title="Bloc" alt="Bloc" height="40"/>
         </td>
     </tr>
     <tr>
