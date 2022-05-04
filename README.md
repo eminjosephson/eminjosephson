@@ -59,7 +59,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>
         </td>
         <td> 
-            <img src="https://plugins.jetbrains.com/files/18073/154423/icon/pluginIcon.png" title="Bloc" alt="Bloc" height="40"/>
+            <img src="https://cdn.shopify.com/s/files/1/0561/0900/7035/products/kiss-cut-stickers-5.5x5.5-default-60692a842f598_940x.jpg?v=1617504906" title="Bloc" alt="Bloc" height="40"/>
         </td>
     </tr>
     <tr>
