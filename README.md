@@ -11,7 +11,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=eminjosephson&style=flat&color=brightgreen" alt=""/>
   <h1>
-    <p>Junior data scientist</p>
+    <p>Machine Learning Engineer</p>
   </h1>
 </div>
 
