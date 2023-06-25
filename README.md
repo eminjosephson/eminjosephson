@@ -17,7 +17,7 @@
 
 
 ## 👨‍💻 About Me :
-### Hi, I am Emin Bari, a junior Data Scientist from  Ukraine <img src="https://media.giphy.com/media/Bdpx4N4DDp1eo7ZjQx/giphy.gif" width="30">
+### Hi, I am Emin Bariiev, a Machine Learning Engineer<img src="https://media.giphy.com/media/Bdpx4N4DDp1eo7ZjQx/giphy.gif" width="30">
 
 - 🔭 I’m doing research on Spiking Neural Networks
 - 🌱 Exploring image segmentation problems using SNN
