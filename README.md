@@ -59,7 +59,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>
         </td>
         <td> 
-            <img src="https://plugins.jetbrains.com/files/12129/261752/icon/pluginIcon.png" title="Bloc" alt="Bloc" height="40"/>
+            <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" title="Bloc" alt="Bloc" height="40"/>
         </td>
     </tr>
     <tr>
