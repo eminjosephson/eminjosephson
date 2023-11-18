@@ -2,7 +2,7 @@
   <img style="border-radius: 4%" src="https://media.giphy.com/media/zoPwopKFU8EcYgN3Zz/giphy.gif" width="200"/>
   
   <div id="badges">
-    <a href="https://www.linkedin.com/in/emin-bariev-8a176321a/">
+    <a href="https://www.linkedin.com/in/emin-bariiev-8a176321a/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://discordapp.com/users/692331725467943003">
