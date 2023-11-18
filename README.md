@@ -59,7 +59,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>
         </td>
         <td> 
-            <img src="https://psv4.userapi.com/c235031/u144299784/docs/d43/913b7fb47687/image_1.png?extra=bas_7mhPbRa7JN3K75AzP6n9Sp1gI_Wxr7B4GOVREMGOk-5IZHuiqQOy6Z1pbf-edE05ESDBH8rzjK6m280xG-zvblsxqqe-H4yEO6bYBaDpwRiTr24xj0mKHsGaWAzRjX_dmqsqseTx6t_ZELA4b0XX" title="Bloc" alt="Bloc" height="40"/>
+            <img src="https://plugins.jetbrains.com/files/12129/261752/icon/pluginIcon.png" title="Bloc" alt="Bloc" height="40"/>
         </td>
     </tr>
     <tr>
@@ -73,7 +73,7 @@
             <img src="https://pngimg.com/uploads/mysql/mysql_PNG4.png" title="MySQL" alt="MySQL" width="40" height="40"/>
         </td>
          <td>
-            <img src="https://kartoza.com/media/uploads/product/.thumbnails/qgis-icon_big300x300.png/qgis-icon_big300x300-0x300.png" title="QGIS" alt="QGIS" width="40" height="40"/>
+            <img src="https://farmwiki.de/tutorials/gis/qgis/qgis_logo_new.svg.png" title="QGIS" alt="QGIS" width="40" height="40"/>
         </td>
     </tr>
 </table>
